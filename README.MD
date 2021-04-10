@@ -10,7 +10,7 @@
 - [x] useFullscreen
 - [x] useHover
 - [x] useNetwork
-- [] useNotification
+- [x] useNotifications
 - [x] useScroll
 - [x] useTabs
 - [x] usePreventLeave
