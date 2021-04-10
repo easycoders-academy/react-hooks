@@ -8,7 +8,7 @@
 - [x] useClick
 - [] useFadeIn
 - [] useFullscreen
-- [] useHover
+- [x] useHover
 - [] useNetwork
 - [] useNotification
 - [] useScroll
