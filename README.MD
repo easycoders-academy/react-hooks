@@ -13,6 +13,6 @@
 - [] useNotification
 - [] useScroll
 - [x] useTabs
-- [] usePreventLeave
-- [] useConfirm
+- [x] usePreventLeave
+- [x] useConfirm
 - [] useAxios
