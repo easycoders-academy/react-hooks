@@ -4,7 +4,7 @@
 
 - [x] useTitle
 - [x] useInput
-- [] usePageLeave
+- [x] useBeforeLeave
 - [x] useClick
 - [] useFadeIn
 - [] useFullscreen
