@@ -15,4 +15,4 @@
 - [x] useTabs
 - [x] usePreventLeave
 - [x] useConfirm
-- [] useAxios
+- [x] useAxios
