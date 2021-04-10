@@ -2,7 +2,7 @@
 
 Набор полезных хуков React, которые можно установить через NPM
 
-- [] useTitle
+- [x] useTitle
 - [x] useInput
 - [] usePageLeave
 - [] useClick
